@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! In this module, I have used HTML, CSS , Bootstrap skills to create a dashboard.
 This Weather Analysis dashboard shows the analysis , visualizatons from WeatherPy module [https://github.com/girijaghali/06.API-challenge] 
-<img alt="Landing page large screen" src="images/GG_landing-lg.png" width=600>
+<img alt="Landing page large screen" src="Images/GG_landing-lg.png" width=600>
 
 ## Lattitude - Latitude Analysis Dashboard 
 
