@@ -49,42 +49,42 @@ This section contains screenshots of each page at varying screen widths.
 #### Landing page
 
 Large screen:
-![Landing page large screen](images/GG_landing-lg.png)
+![Landing page large screen](Images/GG_landing-lg.png)
 
 Small screen:
-![Landing page small screen](images/GG_landing-sm.png)
+![Landing page small screen](Images/GG_landing-sm.png)
 ￼
 
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](images/GG_comparison-lg.png)
+![comparison page large screen](Images/GG_comparison-lg.png)
 
 Small screen:
-![comparison page small screen](images/GG_comparison-sm.png)
+![comparison page small screen](Images/GG_comparison-sm.png)
 
 #### Data page
 
 Large screen:
-![data page large screen](images/GG_data-lg.png)
+![data page large screen](Images/GG_data-lg.png)
 
 Small screen:
-![data page small screen](images/GG_data-sm.png)
+![data page small screen](Images/GG_data-sm.png)
 
 #### Visualization pages
 
 You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen:
-![visualize page large screen](images/GG_visualize-lg.png)
+![visualize page large screen](Images/GG_visualize-lg.png)
 
 Small screen:
-![visualize page small screen](images/GG_visualize-sm.png)
+![visualize page small screen](Images/GG_visualize-sm.png)
 
 #### Navigation menu
 
 Large screen:
-![nav menu large screen](images/GG_nav-lg.png)
+![nav menu large screen](Images/GG_nav-lg.png)
 
 Small screen:
-![nav menu small screen](images/GG_nav-sm.png)
+![nav menu small screen](Images/GG_nav-sm.png)
